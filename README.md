@@ -8,17 +8,15 @@ This project is designed to process images by converting them to JPEG format and
 - Converts all images to **JPEG format**.
 - Resizes images to **1080 x 1920 pixels**.
 - Processes multiple images in a directory.
+- Handles exceptions gracefully:
+  - Skips unsupported file formats with a warning.
+  - Logs errors for processing issues while continuing processing.
+  - Handles unexpected errors without crashing.
 
 ---
 
-## Requirements
+## Instructions
 
-Ensure you have the following installed on your system:
-
-- Python 3.8 or higher
-- `Pillow` library
-
-You can install the required Python library using:
-```bash
-pip install pillow
+```
+# git clone https://github.com/https://github.com/IteratorInnovator/image-processor.git
 
