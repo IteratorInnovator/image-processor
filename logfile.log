@@ -1,0 +1,12 @@
+2025-01-04 16:22:47,660 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-04 135105.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,668 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-04 155931.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,697 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-04 173003.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,713 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-04 180541.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,729 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-04 183006.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,746 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-07 230728.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,778 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-08 190253.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,801 - INFO - C:\Users\user\Desktop\Python\test_image\Screenshot 2024-12-08 191142.png successfully converted and resized. Saved to C:\Users\user\Desktop\Python\test_image\processed_images.
+2025-01-04 16:22:47,831 - WARNING - C:\Users\user\Desktop\Python\test_image\test1.cpp is a non-image file. Processing skipped.
+2025-01-04 16:22:47,831 - WARNING - C:\Users\user\Desktop\Python\test_image\test1.Dockerfile is a non-image file. Processing skipped.
+2025-01-04 16:22:47,833 - WARNING - C:\Users\user\Desktop\Python\test_image\test1.go is a non-image file. Processing skipped.
+2025-01-04 16:22:47,833 - WARNING - C:\Users\user\Desktop\Python\test_image\test1.yaml is a non-image file. Processing skipped.

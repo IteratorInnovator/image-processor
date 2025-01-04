@@ -1,0 +1,2 @@
+# Minimum version of pillow library
+pillow >= 11.1.0
