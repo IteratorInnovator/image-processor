@@ -18,5 +18,17 @@ This project is designed to process images by converting them to JPEG format and
 ## Instructions
 
 ```
-# git clone https://github.com/https://github.com/IteratorInnovator/image-processor.git
+# Clone the repository
+git clone https://github.com/https://github.com/IteratorInnovator/image-processor.git
+
+cd image-processor
+
+# Install dependencies in requirements.txt
+python3 -m pip install -r requirements.txt
+
+# Run the script
+python3 process_images.py <source_directory>
+```
+
+
 
