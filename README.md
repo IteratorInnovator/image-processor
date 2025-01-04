@@ -30,7 +30,7 @@ python3 -m pip install -r requirements.txt
 python3 process_images.py <source_directory>
 ```
 ## Example
-### Before
+### Before running processed_images.py
 ```
 source_directory/
 ├── image1.png 
@@ -38,7 +38,7 @@ source_directory/
 ├── textfile.txt    # Non-image files will not be processed
 └── randomfile.cpp
 ```        
-### After running the script
+### After running processed_images.py
 ```
 source_directory/
 ├── processed_images/  # Processed images will be stored in processed_images directory
