@@ -1,6 +1,4 @@
 import sys
-import os
-import subprocess
 from pathlib import Path
 import logging
 from PIL import Image, UnidentifiedImageError
